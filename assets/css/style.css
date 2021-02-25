@@ -94,6 +94,8 @@ header a {
         background-size: cover;
         background-position: center;
         padding: 30px;
+        width: 40%;
+        margin: 3.5%;
     }
 
     .hero-form {
@@ -101,14 +103,13 @@ header a {
         padding: 20px;
         color: #024e76;
         border: solid 3px #024e76;
-        width: 40%;
         margin: 3.5%;
     }
 
     .hero-form p {
         margin: 5px 0 15px 0;
     }
-      /* Hero Style End */;
+   
 
     header h3 {
         font-size: 24px;
@@ -129,7 +130,7 @@ header a {
         font-size: 55px;
         color: #fce138;
     }
-
+   /* Hero Style End */;
 
     .form-input {
         border: 1px solid #024e76;
