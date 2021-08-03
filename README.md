@@ -11,7 +11,7 @@ A website that offers fitness training services.
 https://DanyalKhanzada.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Danyal Khanzada
+Made with love by Danyal Khanzada
 
 ### 2021 Run Buddy, Inc 
     
